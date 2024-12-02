@@ -1,0 +1,14 @@
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\Kalvi.OOP-Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\Kalvi.OOP-Lab6.AssemblyInfoInputs.cache
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\Kalvi.OOP-Lab6.AssemblyInfo.cs
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\Kalvi.OOP-Lab6.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\bin\Debug\net8.0\Kalvi.OOP-Lab6.exe
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\bin\Debug\net8.0\Kalvi.OOP-Lab6.deps.json
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\bin\Debug\net8.0\Kalvi.OOP-Lab6.runtimeconfig.json
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\bin\Debug\net8.0\Kalvi.OOP-Lab6.dll
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\bin\Debug\net8.0\Kalvi.OOP-Lab6.pdb
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\Kalvi.OOP-Lab6.dll
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\refint\Kalvi.OOP-Lab6.dll
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\Kalvi.OOP-Lab6.pdb
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\Kalvi.OOP-Lab6.genruntimeconfig.cache
+C:\Users\kalvi\Videos\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\Kalvi.OOP-Lab6\obj\Debug\net8.0\ref\Kalvi.OOP-Lab6.dll
